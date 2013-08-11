@@ -8,7 +8,9 @@ Things You Will Need In Your Environment
 4. googlemock - http://code.google.com/p/googlemock/
 5. Boost C++ library
 
-
+Vagrant Option
+==============
+The vagrant file will create a vm with required dependencies
 
 Steps To Verify Your Environment:
 ================================
